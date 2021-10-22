@@ -1,0 +1,6 @@
+**__pycache__
+*.pt
+heavy files/*
+Hand images2/*
+Hand images/*
+yolov5/*.pt
